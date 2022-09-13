@@ -1,2 +1,2 @@
-# first-site
-My first site using HTML and CSS.
+# First-Stylised-Site
+First use of CSS with HTML
